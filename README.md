@@ -23,11 +23,9 @@ Tecnologías utilizadas
 - HTML
 - CSS
 
----
 
  Base de datos
 La base de datos utilizada se encuentra en el archivo:gestor_contrasenas.sql
-
 
 Para ejecutar el proyecto:
 1. Crear una base de datos en MySQL
@@ -35,16 +33,16 @@ Para ejecutar el proyecto:
 3. Configurar la conexión en el archivo PHP correspondiente
 
 
-
  Ejecución del proyecto
 1. Colocar la carpeta del proyecto en el servidor local (XAMPP, WAMP, etc.)
 2. Iniciar Apache y MySQL
 3. Abrir el navegador y acceder a:http://localhost/GestorContrasenas
 
-
  Autores
 GUILLERMO ANDRES GONZALEZ MATTOS
+
 ANDRES MAURICIO JIMENEZ GUZMAN
+
 ANDRES MARQUEZ CORONADO
 
 
